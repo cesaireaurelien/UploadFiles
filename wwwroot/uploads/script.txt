@@ -1,0 +1,11 @@
+<div class="short-description"> 
+	<div class="locatorDesc">
+		<label>1240 Sherwin Road<br>Winnipeg, MB R3T 0V3</label>
+	</div>
+	<div class="locatorDesc">
+		<span>
+			<a href="tel: 204-452-8100">204-452-8100</a><br>
+			<a href="https://www.curtiscarpets.ca/">www.curtiscarpets.ca/</a>
+		</span>
+	</div>
+</div>

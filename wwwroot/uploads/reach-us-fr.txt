@@ -1,0 +1,431 @@
+<!------------------------------REACH US FR--------------------------->
+<p><img src="https://photos.ceratec.com/photos/PS_Banniere/Banniere_TopicPages/Reach_us.jpeg" alt="" width="100%" height="auto" /></p>
+<p style="text-align: center;"><br /><br /> <span style="font-family: 'itcavantgardestd-md'; font-size: 20px; color: #585858;">Siège social</span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"> <br /><br /> Nous pourrions parler de produits toute la journée, mais ce que nous voulons vraiment, c'est vous offrir le meilleur support. <br /> Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter. Tout commentaire est positif!<br /><br /> </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;">414 Avenue Saint-Sacrement,<br />Ville de Québec, Qc <br />G1N 3Y3 <br /><br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Téléphone: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"><a href="tel:418.681.0101" style="text-decoration: none; color: inherit;">418.681.0101</a> <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Télécopieur: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;">418.681.8853 <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Bureau de commande: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"><a href="tel:866.712.3445" style="text-decoration: none; color: inherit;">866.712.3445</a> <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Courriel: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #0083d5;"> <a style="color: #0083d5;" href="mailto:info@ceratec.com"> info@ceratec.com <br /><br /><br /><br /> </a> </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 34px; color: #585858;">Nos succursales </span></p>
+<hr size="1em" />
+<p><br /><br /></p>
+<!---------------------------------CALGARY------------------------------->
+<p><span class="title-h2">CALGARY </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> Bay 1, 3900-106e Avenue S.E. <br /> Calgary, Alberta, Canada <br /> T2C 5B6</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span> <a href="tel:403.720.3130" style="text-decoration: none; color: inherit;"> 866.468.5192</a></li>
+<li><span class="title-h4">Télécopieur:</span> 403.720.3114</li>
+<li><span class="title-h4">Bureau de commande:</span> <a href="tel: 800.712.3453" style="text-decoration: none; color: inherit;"> 800.712.3453</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Ouverte sur rendez-vous seulement</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 18:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 21 février 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 15 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 1 août 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 11 novembre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------DARTMOUTH--------------------------------------->
+<p><span class="title-h2">DARTMOUTH </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 55 Akerley Boulevard, Unit 108 <br /> Dartmouth, Nouvelle-Écosse, Canada <br /> B3B 1M3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span> <a href="tel:902.468.5192" style="text-decoration: none; color: inherit;"> 866.468.5192</a></li>
+<li><span class="title-h4">Télécopieur:</span> 902.468.9894</li>
+<li><span class="title-h4">Bureau de commande:</span> <a href="tel:866.468.5192" style="text-decoration: none; color: inherit;"> 866.468.5192</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Fermée</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 21 février 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 15 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 1 août 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 11 novembre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------MONTRÉAL--------------------------------------->
+<p><span class="title-h2">MONTRÉAL </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 1620 Boulevard Jules Poitras <br /> Montréal, Québec, Canada <br /> H4N 1Z3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span> <a href="tel: 514.956.0341" style="text-decoration: none; color: inherit;"> 514.956.0341</a></li>
+<li><span class="title-h4">Télécopieur:</span> 514.334.6284</li>
+<li><span class="title-h4">Bureau de commande:</span> <a href="tel: 866.712.3446" style="text-decoration: none; color: inherit;"> 866.712.3446</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /> <span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 9:00 à 16:00</span><br /> <span style="font-size: 14px;">Samedii et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 18 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 24 juin 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------OTTAWA--------------------------------------->
+<p><span class="title-h2">OTTAWA </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 2485 Promenade Don Reid<br /> Ottawa, Ontario, Canada <br /> K1H 1E2</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span> <a href="tel: 613.523.5996" style="text-decoration: none; color: inherit;"> 613.523.5996</a></li>
+<li><span class="title-h4">Télécopieur:</span> 613.523.6114</li>
+<li><span class="title-h4">Bureau de commande:</span> <a href="tel: 866.712.3450" style="text-decoration: none; color: inherit;"> 866.712.3450</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 21 février 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 15 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 1 août 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 11 novembre 2022 - 7:30 à 12:30 seulement la Salle de montre</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------VILLE DE QUÉBEC--------------------------------------->
+<p><span class="title-h2">VILLE DE QUÉBEC</span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 414, Avenue Saint-Sacrement <br /> Québec, Québec, Canada <br /> G1N 3Y3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span> <a href="tel:418.681.0101" style="text-decoration: none; color: inherit;"> 866.468.5192</a></li>
+<li><span class="title-h4">Télécopieur:</span> 418.681.8853</li>
+<li><span class="title-h4">Bureau de commande:</span> <a href="tel:866.712.3445" style="text-decoration: none; color: inherit;"> 866.712.3445</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /> <span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 9:00 à 16:00</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 18 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 24 juin 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!---------------------------------TORONTO------------------------------->
+<p><span class="title-h2">TORONTO </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 200, Boulevard Zenway, Unit #4 <br />Woodbridge, Ontario, Canada <br /> L4H 0L6</li>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span><a href="tel:416.743.5514" style="text-decoration: none; color: inherit;"> 416.743.5514</a></li>
+<li><span class="title-h4">Télécopieur:</span> 416.743.3673</li>
+<li><span class="title-h4">Bureau de commande:</span><a href="tel:866.712.3451" style="text-decoration: none; color: inherit;"> 866.712.3451</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /> <span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Ouverte sur rendez-vous seulement</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 21 février 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 15 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 1 août 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!---------------------------------WINNIPEG------------------------------->
+<p><span class="title-h2">WINNIPEG </span></p>
+<hr class="regionHr" size="1em" />
+<p> </p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Coordonnées</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Adresse:</span><br /> 1586 Boulevard Inkster <br /> Winnipeg, Manitoba, Canada <br /> R2X 2W4</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Téléphone:</span><a href="tel:416.743.5514" style="text-decoration: none; color: inherit;"> 416.743.5514</a></li>
+<li><span class="title-h4">Télécopieur:</span> 204.632.1190</li>
+<li><span class="title-h4">Bureau de commande: </span><a href="tel:866.712.3451" style="text-decoration: none; color: inherit;"> 866.712.3451</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Heures d'ouverture</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Réception / Expédition </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 7:30 à 16:30</span><br /><span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop"> </div>
+<ul>
+<li><span class="title-h4">Salle de montre</span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 9:00 à 16:00</span><br /> <span style="font-size: 14px;">Samedii et Dimanche - Fermé</span></p>
+</li>
+<li><span class="title-h4">Bureau de commande </span>
+<p><span style="font-size: 14px;">Lundi au Vendredi - 8:00 à 17:00</span><br /> <span style="font-size: 14px;">Samedi et Dimanche - Fermé</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Plus d'informations</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Notez bien que Ceratec Surfaces<br />sera fermé le : <br /></span></p>
+<p><span style="font-size: 14px;">Lundi 2 janvier 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 21 février 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 15 avril 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 23 mai 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 1er juillet 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 1 août 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 5 septembre 2022</span></p>
+<p><span style="font-size: 14px;">Lundi 10 octobre 2022</span></p>
+<p><span style="font-size: 14px;">Vendredi 11 novembre 2022</span></p>
+<p><span style="font-size: 14px;">Samedi 24 décembre 2022 au Mardi 3 Janvier 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>

@@ -1,0 +1,433 @@
+<!------------------------------REACH US EN--------------------------->
+<p><img src="https://photos.ceratec.com/photos/PS_Banniere/Banniere_TopicPages/Reach_us.jpeg" alt="" width="100%" height="auto" /></p>
+<p style="text-align: center;"><br /><br /> <span style="font-family: 'itcavantgardestd-md'; font-size: 20px; color: #585858;">Head office </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"> <br /><br /> We could talk about our products all day, but what we really want is to offer you the best support. If you have any questions or comments, <br /> do not hesitate to contact us. Any feedback is positive! <br /><br /> </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;">414 Saint-Sacrement Avenue, <br />Quebec City, Qc <br />G1N 3Y3 <br /><br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Telephone: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"><a style="text-decoration: none; color: inherit;" href="tel:418.681.0101">418.681.0101</a> <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Fax: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;">418.681.8853 <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Order desk: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #909090;"><a style="text-decoration: none; color: inherit;" href="tel:866.712.3445">866.712.3445</a> <br /> </span> <span style="font-family: 'itcavantgardestd-md'; font-size: 10pt; color: #585858;">Email: </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 10pt; color: #0083d5;"> <a style="color: #0083d5;" href="mailto:info@ceratec.com"> info@ceratec.com <br /><br /><br /><br /> </a> </span> <span style="font-family: 'itcavantgardestd-bk'; font-size: 34px; color: #585858;">Our branches </span></p>
+<hr size="1em" />
+<p><br /><br /></p>
+<!---------------------------------CALGARY------------------------------->
+<p><span class="title-h2">CALGARY </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> Bay 1, 3900-106th Avenue S.E. <br /> Calgary, Alberta, Canada <br /> T2C 5B6</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:403.720.3130" style="text-decoration: none; color: inherit;"> 403.720.3130</a></li>
+<li><span class="title-h4">Fax:</span> 403.720.3114</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:800.712.3453" style="text-decoration: none; color: inherit;"> 800.712.3453</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Open by appointment only</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 18:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, February 21th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, April 15th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, August 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, November 11th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------DARTMOUTH--------------------------------------->
+<p><span class="title-h2">DARTMOUTH </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 55 Akerley Boulevard, Unit 108 <br /> Dartmouth, Nova Scotia, Canada <br /> B3B 1M3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span><a href="tel:902.468.5192" style="text-decoration: none; color: inherit;"> 902.468.5192</a></li>
+<li><span class="title-h4">Fax:</span> 902.468.9894</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.468.5192" style="text-decoration: none; color: inherit;"> 866.468.5192</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Closed</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, February 21th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, April 15th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, August 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, November 11th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------MONTRÉAL--------------------------------------->
+<p><span class="title-h2">MONTREAL </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 1620 Jules Poitras Boulevard <br /> Montreal, Quebec, Canada <br /> H4N 1Z3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:514.956.0341" style="text-decoration: none; color: inherit;"> 514.956.0341</a></li>
+<li><span class="title-h4">Fax:</span> 514.334.6284</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.712.3446" style="text-decoration: none; color: inherit;"> 866.712.3446</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Monday to Friday - 9:00 to 16:00</span><br /><span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, April 18th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, June 24th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------OTTAWA--------------------------------------->
+<p><span class="title-h2">OTTAWA </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 2485 Don Reid Drive <br /> Ottawa, Ontario, Canada <br /> K1H 1E2</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:613.523.5996" style="text-decoration: none; color: inherit;"> 613.523.5996</a></li>
+<li><span class="title-h4">Fax:</span> 613.523.6114</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.712.3450" style="text-decoration: none; color: inherit;"> 866.712.3450</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:00</span> <br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, February 21th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, April 15th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, August 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, November 11th, 2022 - 7:30 to 12:30 Showroom only</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!-----------------------------------------QUEBEC CITY--------------------------------------->
+<p><span class="title-h2">QUEBEC CITY </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 414, Saint-Sacrement Avenue <br /> Quebec, Quebec, Canada <br /> G1N 3Y3</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:418.681.0101" style="text-decoration: none; color: inherit;"> 418.681.0101</a></li>
+<li><span class="title-h4">Fax:</span> 418.681.8853</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.712.3445" style="text-decoration: none; color: inherit;"> 866.712.3445</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Monday to Friday - 9:00 to 16:00</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, April 18th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, June 24th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!---------------------------------TORONTO------------------------------->
+<p><span class="title-h2">TORONTO </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 200, Zenway Boulevard, Unit #4 <br /> Woodbridge, Ontario, Canada <br /> L4H 0L6</li>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:416.743.5514" style="text-decoration: none; color: inherit;"> 416.743.5514</a></li>
+<li><span class="title-h4">Fax:</span> 416.743.3673</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.712.3451" style="text-decoration: none; color: inherit;"> 866.712.3451</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Open by appointment only</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, February 21th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, April 15th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, August 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
+<!---------------------------------WINNIPEG------------------------------->
+<p><span class="title-h2">WINNIPEG </span></p>
+<hr class="regionHr" size="1em" />
+<p>&nbsp;</p>
+<div class="col-lg-12 col-md-12 row topicContainer">
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>Contact information</strong></div>
+<ul>
+<ul>
+<li><span class="title-h4">Address:</span><br /> 1586 Inkster Boulevard <br /> Winnipeg, Manitoba, Canada <br /> R2X 2W4</li>
+</ul>
+</ul>
+<br />
+<ul>
+<li><span class="title-h4">Telephone:</span> <a href="tel:204.632.9378" style="text-decoration: none; color: inherit;"> 204.632.9378</a></li>
+<li><span class="title-h4">Fax:</span> 204.632.1190</li>
+<li><span class="title-h4">Order desk: </span><a href="tel:866.712.3453" style="text-decoration: none; color: inherit;"> 866.712.3453</a></li>
+</ul>
+</div>
+<br />
+<div class="col-lg-6 col-md-6 row divider">
+<div class="col-lg-6 col-md-6">
+<div class="title-h3"><strong>Business hours</strong></div>
+<ul>
+<li><span class="title-h4">Administration</span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Shipping / Receiving </span>
+<p><span style="font-size: 14px;">Monday to Friday - 7:30 to 16:30</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="title-h3 desktop">&nbsp;</div>
+<ul>
+<li><span class="title-h4">Showroom</span>
+<p><span style="font-size: 14px;">Monday to Friday - 9:00 to 16:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+<li><span class="title-h4">Order desk </span>
+<p><span style="font-size: 14px;">Monday to Friday - 8:00 to 17:00</span><br /> <span style="font-size: 14px;">Saturday &amp; Sunday - Closed</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-3">
+<div class="title-h3"><strong>More information</strong></div>
+<div class="col-lg-12 col-md-12">
+<p><span class="title-h4">Note that Ceratec Surfaces <br /> will be closed on : <br /></span></p>
+<p><span style="font-size: 14px;">Monday, January 2nd, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, February 21th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, April 15th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, May 23th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, July 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, August 1st, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, September 5th, 2022</span></p>
+<p><span style="font-size: 14px;">Monday, October 10th, 2022</span></p>
+<p><span style="font-size: 14px;">Friday, November 11th, 2022</span></p>
+<p><span style="font-size: 14px;">Saturday, December 24th, 2022 to Tuesday, January 3rd 2023</span></p>
+</div>
+</div>
+</div>
+<p><br /><br /></p>
